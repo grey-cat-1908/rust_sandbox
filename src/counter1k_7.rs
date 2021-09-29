@@ -10,4 +10,5 @@ pub(crate) fn calculate() {
 
         number_calculated = number - 7;
     }
+    return;
 }
